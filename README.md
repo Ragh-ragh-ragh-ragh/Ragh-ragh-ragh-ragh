@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ragh-ragh-ragh-ragh
+- 👀 I’m interested in Rust, Go and C++
+- 🌱 I’m currently learning Rust, Java
+- 💞️ I’m looking to collaborate on nothing
